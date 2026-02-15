@@ -210,4 +210,3 @@ The system shows:
 ## 👨‍💻 Author
 
 **Arpit Kale**
-AI/ML Developer | Full-Stack Enthusiast
